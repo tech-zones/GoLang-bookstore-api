@@ -4,10 +4,6 @@
 
 This is REST based API to list, add, update and delete books using local JSON
 
-### Demo
-
-![Alt Bookstore API](https://raw.githubusercontent.com/akilans/golang-mini-projects/main/demos/golang-bookstore-api.gif)
-
 ### Build and run
 
 ```bash
