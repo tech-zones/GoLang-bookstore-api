@@ -9,8 +9,8 @@ This is REST based API to list, add, update and delete books using local JSON
 ```bash
 go build
 ./bookstore
-
 ```
+
 ### URL and request
 
 - Get all the books - http://localhost:8080
@@ -18,4 +18,3 @@ go build
 - Delete book by id - http://localhost:8080/delete?id=5
 - Add books - http://localhost:8080/add
 - Update book - http://localhost:8080/update
-```
